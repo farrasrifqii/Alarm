@@ -1,0 +1,37 @@
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.exe
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.pdb
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.xml
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\Interop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\AxInterop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\Interop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\AxInterop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU DAN ALARM FARRAS.vbproj.ResolveComReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU DAN ALARM FARRAS.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.exe
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.xml
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\bin\Debug\WAKTU.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU DAN ALARM FARRAS.vbproj.ResolveComReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\WAKTU.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU DAN ALARM FARRAS.vbproj.ResolveComReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\WAKTU.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\WAKTU.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\WAKTU.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WAKTU DAN ALARM FARRAS\WAKTU\obj\Debug\WAKTU DAN ALARM FARRAS.vbproj.GenerateResource.Cache

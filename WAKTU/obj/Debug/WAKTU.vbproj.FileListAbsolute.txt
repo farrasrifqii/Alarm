@@ -1,0 +1,15 @@
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.exe
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.pdb
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\WAKTU.xml
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\Interop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\bin\Debug\AxInterop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\Interop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\AxInterop.WMPLib.dll
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.vbproj.ResolveComReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.exe
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.xml
+c:\users\acer\documents\visual studio 2012\Projects\WAKTU\WAKTU\obj\Debug\WAKTU.pdb

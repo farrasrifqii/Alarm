@@ -1,0 +1,7 @@
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\bin\Debug\WAKTU.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\ALARM IKHWAN DHANI.vbproj.ResolveComReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\ALARM IKHWAN\WAKTU\obj\Debug\WAKTU.pdb
